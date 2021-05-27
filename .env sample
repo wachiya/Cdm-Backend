@@ -1,7 +1,0 @@
-HOST: 127.93.0.37
-PORT: 3307
-DATABASE : beeDB
-USER : bee_user,
-PASSWORD : acessgranted@2021
-
-SERVER_PORT=3000
